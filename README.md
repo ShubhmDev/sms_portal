@@ -1,0 +1,43 @@
+<<<<<<< HEAD
+#Student Management & CGPA Dashboard
+A Python-based student Management System built using Streamlit and SQLite.
+
+##Features
+- Add students
+- View students
+- Delete Students
+- Add subject marks.
+- Calculate grades.
+- Calculate SGPA
+- vStudent performance dashboard
+- SGPA visualization
+- SQLite database
+## Technologies Used
+- python
+- Streamlit
+- SQLite
+- Pandas
+- Git
+- GitHub
+=======
+# Student Management & CGPA Dashboard
+A Python-based student Management System built using Streamlit and SQLite.
+
+## Features
+- Add students
+- View students
+- Delete Students
+- Add subject marks.
+- Calculate grades.
+- Calculate SGPA
+- Student performance dashboard
+- SGPA visualization
+- SQLite database
+## Technologies Used
+- python
+- Streamlit
+- SQLite
+- Pandas
+- Git
+- GitHub
+>>>>>>> e352e1996a5c1799f3ed569c3ea3ccf9df0fc488
