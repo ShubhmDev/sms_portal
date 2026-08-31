@@ -1,7 +1,7 @@
-#Student Management & CGPA Dashboard
+## Student Management & CGPA Dashboard
 A Python-based student Management System built using Streamlit and SQLite.
 
-##Features
+## Features
 - Add students
 - View students
 - Delete Students
